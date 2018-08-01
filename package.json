@@ -1,0 +1,20 @@
+{
+  "name": "mydtunode",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "dtu.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node dtu.js"
+  },
+  "author": "zxn",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "1.18.x",
+    "express": "4.16.x",
+    "moment": "2.22.x",
+    "mssql": "4.1.0",
+    "npm": "2.15.1",
+    "redis": "2.8.0"
+  }
+}
